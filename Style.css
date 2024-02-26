@@ -5,7 +5,6 @@ body{
 h1,h2{
   text-align: center;
 }
-
 img{
     display: block;
     margin-left: auto;
@@ -15,4 +14,20 @@ img{
     border-radius: 50px;
     width: 100px;
     height: 100px;  
+}
+audio{
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+video{
+    display: block;
+    width: 90%;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    border-radius: 20px;
 }
